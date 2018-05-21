@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>tweett</label>
+	</settings>
+	<users>
+		<user>
+			<path>tweett.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tweett.jcp</path>
+		</project>
+	</projects>
+</workspace>
